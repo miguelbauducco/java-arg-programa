@@ -1,4 +1,4 @@
-public class enunciadob {
+public class enunciadob { //enunciado b
     public static void main(String[] args) {
 
         int i;
