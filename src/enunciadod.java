@@ -9,7 +9,6 @@ public class enunciadod { //enunciado d
             System.out.println(i*2);
 
         }
-
     }
 
 }
