@@ -1,6 +1,6 @@
-package tp2;
+package tp3;
 
-public class trabajo2 {
+public class trabajo3 {
 
     public static void main(String[] args) {
 
