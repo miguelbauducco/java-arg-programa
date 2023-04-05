@@ -22,10 +22,10 @@ class itemCarrito extends Producto{
         this.precioTotalP = precioTotalP;
     }
 
-    public double metodoSumaTotal(){
-        precioTotalP = precioUnitario * cantidad;
-        return precioTotalP;
-    }
+    //public double metodoSumaTotal(){
+      //  precioTotalP = precioUnitario * cantidad;
+        //return precioTotalP;
+    //}
 }
 
 class Descuento extends itemCarrito {
