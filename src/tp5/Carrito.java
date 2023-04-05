@@ -44,7 +44,6 @@ class Descuento extends itemCarrito {
 
 public class Carrito {
     public static void main(String[] args) {
-
         Scanner teclado = new Scanner(System.in);
         System.out.println("Ingrese producto, cantidad y precio por unidad: ");
         Producto compra = new Producto(
