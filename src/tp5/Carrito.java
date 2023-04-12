@@ -21,11 +21,6 @@ class itemCarrito extends Producto{
         super(nombreP, cantidad, precioUnitario);
         this.precioTotalP = precioTotalP;
     }
-
-    public double metodoSumaTotal(){
-        precioTotalP = precioUnitario * cantidad;
-        return precioTotalP;
-    }
 }
 
 class Descuento extends itemCarrito {
