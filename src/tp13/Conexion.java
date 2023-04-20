@@ -4,8 +4,6 @@ import java.sql.SQLException;
 
 public class Conexion {
 
-    // Ejemplo solo para establecer la conexion basica
-
         public static void main(String[] args){
             try{
                 Class.forName("com.mysql.jdbc.Driver");
