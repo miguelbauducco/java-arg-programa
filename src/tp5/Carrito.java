@@ -38,7 +38,7 @@ public class Carrito {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
 
-        //TP VALIDACIONES AUN EN CURSO
+        //TP VALIDACIONES
 
         //String produ = "";
         //boolean continua;
@@ -56,7 +56,7 @@ public class Carrito {
            // }
        // }while(continua);
 
-    //TP VALIDACIONES AUN EN CURSO
+    //TP VALIDACIONES
         System.out.println("Ingrese producto, cantidad y precio por unidad: ");
         Producto compra = new Producto(
                 teclado.next(),
